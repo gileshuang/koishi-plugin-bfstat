@@ -1,0 +1,31 @@
+{
+  "name": "koishi-plugin-bfstat",
+  "version": "0.0.1",
+  "description": "bfstat bot.",
+  "keywords": [
+    "koishi",
+    "koishi.js"
+  ],
+  "author": "huangjiayao <huangajiayao_1992@163.com>",
+  "contributors": [
+    "huangjiayao <huangajiayao_1992@163.com>"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gileshuang/koishi-plugin-bfstat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gileshuang/koishi-plugin-bfstat/issues"
+  },
+  "homepage": "https://github.com/gileshuang/koishi-plugin-bfstat#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "koishi-core": ">=3"
+  }
+}
